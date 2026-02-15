@@ -28,6 +28,4 @@ Prepare messy automotives listing data for reliable reporting and analysis.
 
 Cars24 used car listings dataset taken from [Kaggle](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset).
 
-![Github repo size](http://img.shields.io/github/repo-size/jonnytodorov/data-cleaning-with-python)
-
 
