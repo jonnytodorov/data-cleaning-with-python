@@ -6,7 +6,7 @@ Data cleaning and standardization of a used car listings dataset using Python (p
 
 **Objective**
 
-Prepare messy automotives listing data for reliable reporting and analysis.
+Prepare messy automotive listing data for reliable reporting and analysis.
 
 **Tools Used**
 * Python
