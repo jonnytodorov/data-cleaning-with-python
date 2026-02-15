@@ -21,8 +21,8 @@ Prepare messy automotives listing data for reliable reporting and analysis.
 * Validated numerical ranges
 
 **Files Included**
-* 'Cleaning.ipynb' - Full data cleaning process and transformation steps
-* 'cars24_cleaned.csv" - Final cleaned dataset ready for analysis
+* [Cleaning.ipynb](cleaning.ipynb) - Full data cleaning process and transformation steps
+* [cars24_cleaned.csv](cars24_cleaned.csv) - Final cleaned dataset ready for analysis
   
 **Dataset**
 
