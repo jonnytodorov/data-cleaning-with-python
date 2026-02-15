@@ -22,6 +22,6 @@ Prepare messy automotives listing data for reliable reporting and analysis.
 
 **Dataset**
 
-Cars24 used car listenings dataset taken from Kaggle 
+Cars24 used car listenings dataset taken from Kaggle.
 
 
