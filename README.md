@@ -26,6 +26,6 @@ Prepare messy automotive listing data for reliable reporting and analysis.
   
 **Dataset**
 
-Cars24 used car listings dataset taken from [Kaggle](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset).
+Cars24 used car listings dataset taken (~8000 records) from [Kaggle](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset).
 
 
