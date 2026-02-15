@@ -20,13 +20,13 @@ Prepare messy automotives listing data for reliable reporting and analysis.
 * Split combined <i>Car Name</i> into structured <i>Brand</i> and <i>Model</i>
 * Validated numerical ranges
 
-**Dataset**
-
-Cars24 used car listings dataset taken from [Kaggle](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset).
-
 **Files Included**
 * 'Cleaning.ipynb' - Full data cleaning process and transformation steps
 * 'cars24_cleaned.csv" - Final cleaned dataset ready for analysis
+  
+**Dataset**
+
+Cars24 used car listings dataset taken from [Kaggle](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset).
 
 ![Github repo size](http://img.shields.io/github/repo-size/jonnytodorov/data-cleaning-with-python)
 
