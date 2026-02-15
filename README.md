@@ -20,7 +20,7 @@ Prepare messy automotive listing data for reliable reporting and analysis.
 * Split combined <i>Car Name</i> into structured <i>Brand</i> and <i>Model</i>
 * Validated numerical ranges
 
-**Files Included**
+**Files Include**
 * [Cleaning.ipynb](cleaning.ipynb) - Full data cleaning process and transformation steps
 * [cars24_cleaned.csv](cars24_cleaned.csv) - Final cleaned dataset ready for analysis
   
