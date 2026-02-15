@@ -15,7 +15,7 @@ Prepare messy automotive listing data for reliable reporting and analysis.
 
 **Key Cleaning Steps**
 * Removed redundant index column
-* Handled missing values <i>(Missing locations standardized to "Unknown")</i>
+* Handled missing values <i>(missing locations standardized to "Unknown")</i>
 * Converted Year from float to integer type
 * Split combined <i>Car Name</i> into structured <i>Brand</i> and <i>Model</i>
 * Validated numerical ranges
